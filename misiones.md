@@ -5,5 +5,6 @@
 3. Buscar nuevos miembros
 4. Acabar con death stroke, gatubela y  joker
 5. Pedir ayuda a Flash
+6. Proteger las cajas madre
 
 
