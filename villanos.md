@@ -6,3 +6,4 @@
 * Hiebra Venesoza
 * Darkseid
 * Deathstroke
+* Harley Queen
