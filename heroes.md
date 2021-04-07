@@ -9,3 +9,5 @@
 * Detective Marciano
 * Linterna Verde
 * Los gemelos fantásticos
+* Los hermanos fantásticos
+
