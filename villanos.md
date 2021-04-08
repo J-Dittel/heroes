@@ -9,3 +9,4 @@
 * Harley Queen
 * Dessad
 * Reverse Flash
+* Mr. Frío
