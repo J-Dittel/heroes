@@ -5,3 +5,5 @@
 3. Ciudad central de Flash
 4. Atlantis
 5. ciudad Temiscira
+6. Star City
+7. Coast City
