@@ -8,5 +8,8 @@
 * Deathstroke
 * Harley Queen
 * Dessad
-* Reverse Flash
 * Mr. Frío
+* Black Mantha
+* Flash reverse
+* Siniestro
+
